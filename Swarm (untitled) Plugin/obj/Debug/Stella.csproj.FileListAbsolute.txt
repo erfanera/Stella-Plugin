@@ -1,0 +1,17 @@
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\STAR.dll
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\STAR.pdb
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\STAR.Properties.Resources.resources
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Stella.csproj.GenerateResource.cache
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Stella.csproj.CoreCompileInputs.cache
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\STAR.dll
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\STAR.pdb
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Stella.csprojAssemblyReference.cache
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\STAR.dll.config
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\STAR.dll.config
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\STAR.dll
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\STAR.pdb
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Stella.csprojAssemblyReference.cache
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\STAR.Properties.Resources.resources
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Stella.csproj.GenerateResource.cache
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\STAR.dll
+C:\Users\erfan\Desktop\Files\Stella\Stella3d_v.1.1.0\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\STAR.pdb

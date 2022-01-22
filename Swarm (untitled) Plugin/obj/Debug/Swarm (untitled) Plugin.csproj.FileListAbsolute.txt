@@ -1,0 +1,30 @@
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csprojAssemblyReference.cache
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.dll
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.pdb
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.dll
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.pdb
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm__untitled__Plugin.Properties.Resources.resources
+C:\Users\Salar Anahid\Desktop\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csproj.GenerateResource.cache
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.dll
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.pdb
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csprojAssemblyReference.cache
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm__untitled__Plugin.Properties.Resources.resources
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csproj.GenerateResource.cache
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csproj.CoreCompileInputs.cache
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.dll
+D:\plugin\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.pdb
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csprojAssemblyReference.cache
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm__untitled__Plugin.Properties.Resources.resources
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csproj.GenerateResource.cache
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.dll
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.pdb
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.dll
+C:\Users\Salar Anahid\Desktop\Sciacallo Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.pdb
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.dll
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\bin\Swarm (untitled) Plugin.pdb
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csprojAssemblyReference.cache
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm__untitled__Plugin.Properties.Resources.resources
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csproj.GenerateResource.cache
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.csproj.CoreCompileInputs.cache
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.dll
+D:\plugin\Star_Plug-in\Beta\Visual Studio\Swarm (untitled) Plugin\Swarm (untitled) Plugin\obj\Debug\Swarm (untitled) Plugin.pdb
